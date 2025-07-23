@@ -9,3 +9,8 @@ let c=30;
 let d=50;
 
 let e=60;
+
+
+function add(x, y) {
+    return x + y;
+}   
