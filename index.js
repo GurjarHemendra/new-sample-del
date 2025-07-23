@@ -7,3 +7,5 @@ let b =20;
 let c=30;
 
 let d=50;
+
+let e=60;
